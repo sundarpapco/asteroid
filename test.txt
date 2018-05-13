@@ -1,1 +1,2 @@
-this line added right at beginning
+this line added right at beginning and edited at first branch
+this line added at the master branch
